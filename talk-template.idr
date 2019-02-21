@@ -18,10 +18,10 @@ import Data.Vect
 -- function adt show
 
 
--- mylist
-
-
 -- Nat 
+
+
+-- mylist
 
 
 -- variable xs vect
@@ -34,3 +34,4 @@ import Data.Vect
 
 
 -- vappend
+
